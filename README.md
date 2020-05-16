@@ -2,4 +2,5 @@
 
 tools :
 - python3
+  - re library from python (built in)
 - vscode
